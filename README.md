@@ -1,3 +1,3 @@
 # Hey, I'm Yacine
 
-Backend dev interested in systems programming. I like building things from scratch.
+Backend and system dev. I like to reinvent the wheel sometimes...
